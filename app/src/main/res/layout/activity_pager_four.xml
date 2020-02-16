@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/emrgencyoverview"
+    tools:context=".pager_four">
+
+    <TextView
+        style="@android:style/Widget.Holo.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:text="999 : call here,to get any emergency help\n10921 : call her to  get any women and child right help "
+        android:layout_margin="10dp"
+
+        android:gravity="start" />
+
+</LinearLayout>

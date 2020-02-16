@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pager_two"
+    android:gravity="center"
+    android:background="@drawable/helpingoverview"
+    android:orientation="vertical">
+
+
+    <TextView
+        style="@android:style/Widget.Holo.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:layout_margin="10dp"
+        android:text="With this section,you can seek help from any 5 selected peole. The section send your location and help seeking text\n to your guardian or the trusted people you choose"
+        />
+
+</LinearLayout>

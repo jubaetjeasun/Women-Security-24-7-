@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/contactoverview"
+    tools:context=".pager_five">
+
+    <TextView
+        style="@android:style/Widget.Holo.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="45dp"
+        android:textSize="20sp"
+        android:padding="5dp"
+        android:text="This is the page to set up your all contacts.you can set your guardian's contact as well as your trusted friend's too.The help and text section is work through these numbers"
+        android:layout_margin="10dp"
+
+        />
+
+</LinearLayout>
